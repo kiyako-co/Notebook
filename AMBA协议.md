@@ -29,4 +29,5 @@ AMBA是一系列协议，其定义了SoC各个模块之间是如何互联，如�
 
 ![img](https://pic4.zhimg.com/v2-c30659932235f1aec416b0b2166aec4f_r.jpg)
 
-image/image-20240131195421966.png
+![img](https://github.com/kiyako-co/Notebook/blob/main/image/image-20240131195421966.png)
+
